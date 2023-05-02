@@ -4,7 +4,7 @@
 	margin : 0;
 	padding: 0;
 }
-.main{
+div.main{
 		width: 200px;
 	background-color: rgb(128, 0, 128);
 	border-left-width: 5px;
